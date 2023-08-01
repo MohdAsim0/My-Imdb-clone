@@ -8,7 +8,8 @@ import Movie from "./Components/movieDetail/movie";
 function App() {
   return (
     <div className="App">
-      <Router>
+    //basename="/react-dummy"
+      <Router >
         <Header />
         <Routes>
           <Route index element={<Home />}></Route>
@@ -17,7 +18,7 @@ function App() {
             path="movies/:type"
             element={<MovieList/>}
           ></Route>
-          <Route path="/*" element={<h1>Error Page</h1>}></Route>
+          <Route path="/*" element={<Home/>}></Route>
         </Routes>
       </Router>
     </div>
