@@ -8,7 +8,7 @@ import Movie from "./Components/movieDetail/movie";
 function App() {
   return (
     <div className="App">
-    //basename="/react-dummy"
+    
       <Router >
         <Header />
         <Routes>
