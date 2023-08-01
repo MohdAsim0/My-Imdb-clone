@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/My-Imdb-clone/static/css/main.f27c656d.css",
-    "main.js": "/My-Imdb-clone/static/js/main.a8c26194.js",
+    "main.js": "/My-Imdb-clone/static/js/main.2fbb030c.js",
     "index.html": "/My-Imdb-clone/index.html",
     "main.f27c656d.css.map": "/My-Imdb-clone/static/css/main.f27c656d.css.map",
-    "main.a8c26194.js.map": "/My-Imdb-clone/static/js/main.a8c26194.js.map"
+    "main.2fbb030c.js.map": "/My-Imdb-clone/static/js/main.2fbb030c.js.map"
   },
   "entrypoints": [
     "static/css/main.f27c656d.css",
-    "static/js/main.a8c26194.js"
+    "static/js/main.2fbb030c.js"
   ]
 }
