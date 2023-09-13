@@ -2,6 +2,12 @@
   margin: 0;
   padding: 0;
 }
-/* html,body,#root,.App{
+
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: lightblue;
+  }
+}
+html,body,#root,.App{
   min-height: 100%;
-} */
+}
